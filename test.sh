@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Creating file"
-touch file.json
+touch file.js
 echo "Done"
