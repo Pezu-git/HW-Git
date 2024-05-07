@@ -53,3 +53,9 @@
 2. git commit graph
 
    ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/commitgraph.png)
+
+## Задание 4\*
+
+1. git commit graph
+
+   ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/mergeconflict.png)
