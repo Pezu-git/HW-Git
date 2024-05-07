@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Creating file"
-touch file.txt
+touch file.js
 echo "Done"
