@@ -34,6 +34,18 @@
 
    ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/gitcommit.png)
 
-9. git add .gitignore
+## Задание 2
+
+1. git add .gitignore
 
    ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/addgitignore.png)
+
+2. git add .gitignore
+
+   ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/addgitignore.png)
+
+## Задание 3
+
+1. git branch dev
+
+   ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/gitbranchdev.png)
