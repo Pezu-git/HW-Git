@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Creating file"
-touch file
+touch file.txt
 echo "Done"
