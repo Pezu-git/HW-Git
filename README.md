@@ -33,3 +33,7 @@
 8. git commit
 
    ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/gitcommit.png)
+
+9. git add .gitignore
+
+   ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/addgitignore.png)
