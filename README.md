@@ -24,7 +24,7 @@
 
 6. git diff --staged
 
-   ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/gitstaged.png)
+   ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/gitdiffstaged.png)
 
 7. git add README.md, git diff --staged
 
