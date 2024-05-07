@@ -2,6 +2,8 @@
 
 ## Задание 1
 
+[First commit](https://github.com/Pezu-git/HW-Git/commit/dc8e5acc61ba2050fc392f3444a35cd9a4c62f93)
+
 1. git config --list - Настройки Git
 
    ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/gitconfig.png)
@@ -34,19 +36,17 @@
 
    ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/gitcommit.png)
 
-9. Commit link
-
-   [First commit](https://github.com/Pezu-git/HW-Git/commit/dc8e5acc61ba2050fc392f3444a35cd9a4c62f93)
-
 ## Задание 2
+
+[Commit add .gitignore](https://github.com/Pezu-git/HW-Git/commit/1a2aded565e4ac1ab1dacd02be0ddf6f240ba212)
 
 1. git add .gitignore
 
    ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/addgitignore.png)
 
-   [Commit add .gitignore](https://github.com/Pezu-git/HW-Git/commit/1a2aded565e4ac1ab1dacd02be0ddf6f240ba212)
-
 ## Задание 3
+
+[Network graph](https://github.com/Pezu-git/HW-Git/network)
 
 1. git branch dev
 
@@ -56,16 +56,10 @@
 
    ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/commitgraph.png)
 
-3. graph link
-
-   [Network graph](https://github.com/Pezu-git/HW-Git/network)
-
 ## Задание 4\*
+
+[Network graph](https://github.com/Pezu-git/HW-Git/network)
 
 1. git commit graph
 
    ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/mergeconflict.png)
-
-2. Graph link
-
-   [Network graph](https://github.com/Pezu-git/HW-Git/network)
