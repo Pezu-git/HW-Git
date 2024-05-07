@@ -49,3 +49,7 @@
 1. git branch dev
 
    ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/gitbranchdev.png)
+
+2. git commit graph
+
+   ![git config](https://github.com/Pezu-git/HW-Git/blob/main/img/commitgraph.png)
